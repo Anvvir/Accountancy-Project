@@ -1,0 +1,72 @@
+body
+{
+  background-color: #838F99;
+}
+#container
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#logo
+{
+  background-color: #002266   ;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+#nav
+{
+  float: left;
+  background-color: lightgray;
+  width: 120px;
+  min-height: 620px;
+  padding: 10px;
+}
+#menu_main
+{
+  clear: both;
+  width: auto;
+  background-color: red;
+  height: 50px;
+  text-align: center;
+}
+#menu_about
+{
+  width: auto;
+  background-color: red;
+  height: 50px;
+  text-align: center;
+}
+#menu_photo
+{
+  width: auto;
+  background-color: red;
+  height: 50px;
+  text-align: center;
+}
+#menu_offer
+{
+  width: auto;
+  background-color: red;
+  height: 50px;
+  text-align: center;
+}
+
+
+#content
+{
+  background-color: #DDDDDD;
+  float: left;
+  padding: 20px;
+  width: 820px;
+}
+
+#footer
+{
+  clear: both;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
